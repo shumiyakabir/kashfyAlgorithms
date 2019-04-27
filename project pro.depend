@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556377780 source:d:\kash\project pro\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
